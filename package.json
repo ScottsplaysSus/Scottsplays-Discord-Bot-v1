@@ -1,0 +1,23 @@
+{
+  "name": "scottsplays-discord-bot-v1",
+  "version": "1.0.0",
+  "description": "Scottsplays Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Scottsplays",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "node": "^16.14.2"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.31.2",
+    "discord.js": "^13.6.0",
+    "npm": "^8.7.0"
+  }
+}

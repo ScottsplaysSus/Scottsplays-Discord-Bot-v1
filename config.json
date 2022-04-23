@@ -1,0 +1,5 @@
+{
+	"clientId": "934085202832154636",
+	"guildId": "908957854399082527",
+  "token": "process.env['TOKEN']"
+}
